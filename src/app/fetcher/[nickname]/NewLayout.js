@@ -6,7 +6,7 @@
 export default function NewLayout({ children }) {
   return (
     <div>
-      <div>Заголовок</div>
+      <div>Fetcher</div>
       {children}
     </div>
   );
